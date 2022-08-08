@@ -1,10 +1,10 @@
 # Pre-Placement-Module-2023
 
-- Name:vishal chauhan 
+- Name: vishal chauhan 
 - University Roll No.:1900290000076
 - Branch:civil
 - Section:b
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language: C++
 
 ## Coding Profile
 - LeetCode: [vishal_chauhan](https://leetcode.com/vishal_244)
