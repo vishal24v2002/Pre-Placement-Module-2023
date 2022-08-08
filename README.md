@@ -8,7 +8,7 @@
 
 ## Coding Profile
 - LeetCode: [vishal_chauhan](https://leetcode.com/vishal_244)
-- HackerRank: [vishal_chauhan](https://www.hackerrank.com/@vishal_1923ce101)
+- HackerRank: [vishal_chauhan](https://www.hackerrank.com/vishal_1923ce101)
 
 ## Placement Module
 
